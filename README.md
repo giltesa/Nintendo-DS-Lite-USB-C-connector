@@ -6,17 +6,20 @@ This is a special USB-C connector witch can be used to be directly soldered on t
 ![Nintendo DS Lite: USB-C connector](https://raw.githubusercontent.com/giltesa/Nintendo-DS-Lite-USB-C-connector/master/4.%20Photos/nds-lite-bag.jpg)
 
 
-
 ## Note
 
 This repo is only to host the PDF guide, there aren't design files.
 
 
-
-## You can get more information on my website:
+## Would you like it?
 
 [Nintendo DS Lite: USB-C connector](https://shop.giltesa.com/product/nintendo-ds-lite-usb-c-connector/)
 
+
+## More
+
+- [giltesa.com](https://giltesa.com "giltesa.com")
+- [twitter.com](https://twitter.com/giltesa "twitter.com")
 
 
 ## License
